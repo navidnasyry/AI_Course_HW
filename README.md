@@ -1,2 +1,2 @@
 # AI_Course_HW
-Home works of  AI Course
+HW of  AI Course
